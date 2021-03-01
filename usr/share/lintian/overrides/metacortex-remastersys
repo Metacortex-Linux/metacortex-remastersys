@@ -1,0 +1,6 @@
+metacortex-remastersys: arch-independent-package-contains-binary-or-object
+metacortex-remastersys: unstripped-binary-or-object
+metacortex-remastersys: depends-on-essential-package-without-using-version
+metacortex-remastersys: depends-on-obsolete-package
+metacortex-remastersys: binary-without-manpage usr/bin/metacortex-remastersys-skelcopy
+metacortex-remastersys binary: diff-contains-git-control-dir .git

@@ -1,0 +1,11 @@
+/etc/metacortex-remastersys/gdm/custom.conf
+/etc/metacortex-remastersys/isolinux/isolinux.cfg.vesamenu
+/etc/metacortex-remastersys/isolinux/splash.png
+/etc/metacortex-remastersys/mdm/mdm.conf
+/etc/metacortex-remastersys/patch/30parted
+/etc/metacortex-remastersys/patch/30parted-remove-cdrom-device.patch
+/etc/metacortex-remastersys/patch/50mounted-tests
+/etc/metacortex-remastersys/patch/50mounted-tests-iso9660.patch
+/etc/metacortex-remastersys/preseed/custom.seed
+/etc/metacortex-remastersys/metacortex-remastersys.conf
+/etc/metacortex-remastersys/metacortex-remastersys.version
